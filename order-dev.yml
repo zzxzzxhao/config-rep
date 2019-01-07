@@ -8,5 +8,5 @@ spring:
     url: jdbc:mysql://localhost:3306/springcloud_sell?characterEncoding=utf-8&userSSl=false
     jpa:
       show-sql: true
-dev: test
+dev: test001
   
