@@ -11,5 +11,5 @@ spring:
 dev: test001
 
 girl:
-  name: lina
-  age: 18
+  name: Anna
+  age: 19
