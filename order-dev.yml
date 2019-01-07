@@ -11,5 +11,5 @@ spring:
 dev: test001
 
 girl:
-  name: titi
-  age: 15
+  name: nhnh
+  age: 18
