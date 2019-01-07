@@ -11,5 +11,5 @@ spring:
 dev: test001
 
 girl:
-  name: hui
-  age: 20
+  name: huity
+  age: 22
