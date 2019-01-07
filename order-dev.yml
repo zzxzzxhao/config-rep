@@ -9,4 +9,7 @@ spring:
     jpa:
       show-sql: true
 dev: test001
-  
+
+girl:
+  name: yui
+  age: 16
